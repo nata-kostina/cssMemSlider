@@ -10,10 +10,6 @@
 }
 
 body {
-	background-image: url('./assets/img/background.jpg');
-	background-repeat: no-repeat;
-	background-position: center;
-	background-size: cover;
 	height: 100vh;
 	font-size: 3vh;
 	background-color: #111111;
@@ -124,7 +120,7 @@ display: none;
 }
 
 label {
-	padding: 0.2rem 2% 2%;
+	padding: 0.4rem 2% 2%;
 }
 
 label.last-option {
