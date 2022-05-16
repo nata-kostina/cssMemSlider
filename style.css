@@ -88,13 +88,13 @@ h1 {
 
 .info-wrapper {
 	width: 100%;
-	max-width: 50%;
+	max-width: 55%;
 	height: 25%;
 	overflow: hidden;
 	display: flex;
 	flex-shrink: 1;
 	flex-grow: 0;
-	margin-right: 7%;
+	padding-right: 15%;
 }
 
 .info-tape {
